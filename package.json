@@ -1,0 +1,9 @@
+{
+  "name": "typechain_2020",
+  "version": "1.0.0",
+  "description": "make Block Chain with Typescript 2020",
+  "main": "index.js",
+  "repository": "https://github.com/HelloGape/typechain_2020.git",
+  "author": "Kang Jae Kwon <rkdwornjs123@gmail.com>",
+  "license": "MIT"
+}
